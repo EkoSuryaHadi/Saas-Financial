@@ -1,0 +1,5 @@
+{
+  "name": "SaaS Financial Variance Analyst",
+  "description": "A React-based financial dashboard that analyzes Budget vs. Actuals using Gemini 2.5 Flash to provide automated CFO-level insights and anomaly detection.",
+  "requestFramePermissions": []
+}
